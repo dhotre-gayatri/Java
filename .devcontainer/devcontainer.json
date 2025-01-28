@@ -22,7 +22,9 @@
 				"PKief.material-product-icons",
 				"SkyLiss.lotus-theme",
 				"DavidAnson.vscode-markdownlint",
-				"vscjava.vscode-java-debug"
+				"vscjava.vscode-java-debug",
+				"Oracle.oracle-java",
+				"georgewfraser.vscode-javac"
 			],
 			"settings": {
 				"workbench.colorTheme":"Lotus Dark" ,
