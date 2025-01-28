@@ -8,8 +8,9 @@ public class CompositNumbers_04 {
         //Print 1 , 2, 4 , 8 , 16 , 32...n
         System.out.println("Enter the value of N : ");
         int n = sc.nextInt();
-       // int x = 0;
+        int x = 0;
         // Composit Numbers are the number that they can be divided by 1 and at least one any other number
+        /*
         //Method 1
         for(int i = 2 ; i <= n-1 ; i++){
             if(n % i == 0)
@@ -22,9 +23,9 @@ public class CompositNumbers_04 {
                 break;
             }
 
-        }
+        }*/
 
-        /* Method 2 Using flag in this case x is a flag
+        // Method 2 Using flag in this case x is a flag
         for (int i = 2 ; i <= n-1 ; i++) {
             if (n % i == 0) {
                 System.out.println("Composite Number");
@@ -36,7 +37,7 @@ public class CompositNumbers_04 {
             if(x == 0)
             {
                 System.out.println("Prime Number");
-            }*/
+            }
 sc.close();
         }
 
