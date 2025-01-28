@@ -17,11 +17,12 @@
 			"extensions": [
 				"vscjava.vscode-java-pack",
 				"esbenp.prettier-vscode",
-                "vscode-icons-team.vscode-icons",
-                "wayou.vscode-todo-highlight",
-                "PKief.material-product-icons",
-                "SkyLiss.lotus-theme",
-                "DavidAnson.vscode-markdownlint"
+				"vscode-icons-team.vscode-icons",
+				"wayou.vscode-todo-highlight",
+				"PKief.material-product-icons",
+				"SkyLiss.lotus-theme",
+				"DavidAnson.vscode-markdownlint",
+				"vscjava.vscode-java-debug"
 			],
 			"settings": {
 				"workbench.colorTheme":"Lotus Dark" ,
