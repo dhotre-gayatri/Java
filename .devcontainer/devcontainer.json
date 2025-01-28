@@ -15,8 +15,19 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"vscjava.vscode-java-pack"
-			]
+				"vscjava.vscode-java-pack",
+				"esbenp.prettier-vscode",
+                "vscode-icons-team.vscode-icons",
+                "wayou.vscode-todo-highlight",
+                "PKief.material-product-icons",
+                "SkyLiss.lotus-theme",
+                "DavidAnson.vscode-markdownlint"
+			],
+			"settings": {
+				"workbench.colorTheme":"Lotus Dark" ,
+				"workbench.productIconTheme": "material-product-icons",
+				
+			}
 		}
 	}
 
