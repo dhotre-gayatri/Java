@@ -15,7 +15,8 @@ public class Passing_Array_To_Methods_07{
         change(arr);
         System.out.println(arr[0]);
     }
-    public static void change(int[]x){ // here x is reference variable of arr it means that x is an another name of arr 
+    public static void change(int[]x){ // here x is reference variable of arr it means that x is an another name of arr. for the arrays tis is metnod of pass by reference
+// int this x is getting address of the arr
         x[0] = 90;
     }
     
