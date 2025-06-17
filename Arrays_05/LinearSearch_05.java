@@ -17,8 +17,8 @@ public class LinearSearch_05 {
 
         for (int i = 0; i < n; i++) {
          if(ele == arr[i]){
-            System.out.println("Index of the element is :" + i5
-            );
+            System.out.println("Index of the element is :" + i);
+            
          }  
         }
 
