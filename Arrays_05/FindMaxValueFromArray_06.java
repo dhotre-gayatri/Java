@@ -17,6 +17,7 @@ public class FindMaxValueFromArray_06{
             if(arr[i] > max ){
                 max = arr[i];
             }
+        
         }
         System.out.println("Max value is : " + max);
     }
