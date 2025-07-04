@@ -25,6 +25,22 @@ public class ContainsAndStartsWith_04 {
 
 
 
+
+        // // toLowerCase()
+        // String s  = "Hello....My name is Gayatri";
+        // System.out.println(s.toLowerCase());
+
+
+
+        // // concat()
+        // String s  = "Hello....My name is Gayatri";
+        // String u = "I am 21 year old";
+        // System.out.println(s.concat( " " +u));
+
+
+
+
+
     }
     
 }
